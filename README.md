@@ -1,2 +1,2 @@
-# Projects
-Data Analyst & Data Science Project 
+# Projects: Digital Transformation
+Data Analyst Project 
